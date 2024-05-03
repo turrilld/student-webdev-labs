@@ -35,12 +35,12 @@ li[class="cat dog parrot"] {
 .list-cleaning ol {
   color: var(--green);
 }
-ol > .second {
+.second {
   color: var(--darkmagenta);
 }
-ol > .second ~ li {
+.second ~ li {
   color: var(--royalblue);
 }
-ol > .second ~ li + li {
+.second ~ li + li {
   color: var(--darkmagenta);
 }
