@@ -6,6 +6,18 @@
   grid-area: article;
 }
 
+.aside {
+  grid-area: aside;
+}
+
+.section {
+  grid-area: section;
+}
+
+.footer {
+  grid-area: footer;
+}
+
 .grid-container {
   display: grid;
   height: 97vh;
@@ -13,12 +25,42 @@
   grid-template-rows: repeat(8, 1fr);
   gap: 10px;
   grid-template-areas:
-    'header'
-    'article'
-    'article'
-    'section'
-    'section'
-    'section'
-    'aside'
-    'footer';
+    "header"
+    "article"
+    "article"
+    "section"
+    "section"
+    "section"
+    "aside"
+    "footer";
+}
+
+/* answer key has 3 media sections but lab only needs 2?  Going with the standard dimensions for the class instead of the answer key*/
+
+@media (min-width: 415px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr 3fr 3fr 1fr;
+    gap: 10px;
+    grid-template-areas:
+      "header header header"
+      "article article aside"
+      "section section section"
+      "footer footer footer";
+  }
+}
+
+@media (min-width: 1024px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 3fr 3fr 1fr;
+    gap: 10px;
+    grid-template-areas:
+      "header header header header"
+      "aside article article article"
+      "section section section section"
+      "footer footer footer footer";
+  }
 }
