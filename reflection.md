@@ -8,8 +8,8 @@
 
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
 
-  They were helpful to get a start on how HTML works and start to see best practices. The form excercise is probably one of my
-  most refrenced pieces of code this term.
+  They were helpful to get a start on how HTML works and start to see best practices. The form exercise is probably one of my
+  most referenced pieces of code this term.
 
 - Was there something that you wish had been explained better?
 
@@ -27,7 +27,7 @@
 
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
 
-  They were very helpful for getting the accessability checking tools up and running, as well as familiarizing myself with their use.
+  They were very helpful for getting the accessibility checking tools up and running, as well as familiarizing myself with their use.
 
 - Was there something that you wish had been explained better?
 
@@ -52,19 +52,19 @@
 
 - Was there something that you wish had been explained better?
 
-  Layout was a challenge throughout the term. I dont know if it could have been explained better, but some examples that might show up
-  in later homeworks (especially if that homework was not focused on layout....) would have been nice for a refrence
+  Layout was a challenge throughout the term. I don’t know if it could have been explained better, but some examples that might show up
+  in later homework (especially if that homework was not focused on layout....) would have been nice for a reference
 
 - Were there other exercises that might have helped you learn this week’s topic a little better?
 
   As above, layout was a challenge throughout the term. A bit more practice with sizing and using display: inline-block; would
-  likely be appriciated
+  likely be appreciated
 
 ### Flexbox
 
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
-  I was able to complete the exercises on my own. However I did refrence the solutions much more closely in this section, basically checking
+  I was able to complete the exercises on my own. However I did reference the solutions much more closely in this section, basically checking
   the solutions after each question rather than at the end of all of the work. I felt far less confident about my results (in part because they
   did not look precisely the same as the screenshots even using the solutions)
 
@@ -75,18 +75,18 @@
 
 - Was there something that you wish had been explained better?
 
-  How to properly space the flex boxes, especially if they were not going to be consistantly spaced.
+  How to properly space the flex boxes, especially if they were not going to be consistently spaced.
 
 - Were there other exercises that might have helped you learn this week’s topic a little better?
 
-  A more real world example of how flexbox was used to align differant parts of a website would be helpful. It might also be good for it to be
-  suggestive of where you want us to use flexbox in future homeworks and exercises.
+  A more real world example of how flexbox was used to align different parts of a website would be helpful. It might also be good for it to be
+  suggestive of where you want us to use flexbox in future homework and exercises.
 
 ### CSS Grid
 
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
-  Similarly to the flexbox exercizes, I was able to complete them on my own but I was refrencing the solutions much more closely. This was (if memory
+  Similarly to the flexbox exercises, I was able to complete them on my own but I was refrencing the solutions much more closely. This was (if memory
   serves) the first time I watched one of the videos to see how something was supposed to work. It was also the first time I was not certain the solution
   was correct, as for grid container 4 the exercise and solution both use a 600 px size for height, but when I was doing the exercise it looked
   more like the example when I used a 400 px height.
@@ -108,12 +108,12 @@
 
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
-  I was somewhat strapped for time on this one, so I started out refrencing the solutions ahead of time as it was faster than searching through the refrences
+  I was somewhat strapped for time on this one, so I started out referencing the solutions ahead of time as it was faster than searching through the references
   to find what I needed. I was still able to complete most of the exercises without relying on the solutions.
 
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
 
-  I found them quite helpful in learning bootstrap. I dont think I used bootstrap much at all in the rest of the class however.
+  I found them quite helpful in learning bootstrap. I don’t think I used bootstrap much at all in the rest of the class however.
 
 - Was there something that you wish had been explained better?
 
@@ -128,8 +128,8 @@
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
   I was able to complete the first four exercises on my own. However, my solutions varied a bit from the ones suggested and were much longer than
-  those were. I also had issues getting my testing eviroment working to actually test my scripts, so I wound up testing both my own code and the
-  solutions repeatedly until I fixed the issue. The last three exercises required me to refrence the solutions to find what I was doing wrong.
+  those were. I also had issues getting my testing enviroment working to actually test my scripts, so I wound up testing both my own code and the
+  solutions repeatedly until I fixed the issue. The last three exercises required me to reference the solutions to find what I was doing wrong.
 
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
 
@@ -148,7 +148,7 @@
 
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
-  I was able to complete most of them on my own, but my code was ugly and had uncessary parts. I would not have considered it a correct answer
+  I was able to complete most of them on my own, but my code was ugly and had unnecessary parts. I would not have considered it a correct answer
   compared to the solution.
 
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
@@ -157,7 +157,7 @@
 
 - Was there something that you wish had been explained better?
 
-  I definately felt like I did not understand the dom section well, but I cant tell if thats the lab, the lecure, or my own stress and exaustion towards
+  I definitely felt like I did not understand the dom section well, but I cant tell if thats the lab, the lecture, or my own stress and exhaustion towards
   the end of the term preventing me from absorbing as much of the lecture material.
 
 - Were there other exercises that might have helped you learn this week’s topic a little better?
